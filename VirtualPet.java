@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * Write a description of class VirtualDog here.
+ * Write a description of class VirtualDog here. Java 1
  * 
  * @author (MALVERN MADONDO) 
  * @version (12/4/2015)
